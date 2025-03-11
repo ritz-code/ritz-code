@@ -15,4 +15,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/ritz-
 
 - Language: SQL, Python, Java, JavaScript
 - Database: MySQL, PostgreSQL, MongoDB
-- Visualization: Tableau
+- Visualization: Tableau, Jupyter Notebook
