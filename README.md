@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-Hello, I'm Katie. Data Analyst/ Software Engineer with experience in 
+Hello, I'm Ritu. Data Analyst/ Software Engineer with experience in 
 
 - Querying data using SQL.
 - Software Development using Python, Java, JavScript.
