@@ -4,7 +4,7 @@ Hello, I'm Ritu. Data Analyst/ Software Engineer with experience in the followin
 
 - Querying data using SQL.
 - Software Development using Python, Java, JavScript.
-- Generate reports and perform ad-hoc data analysis using SQL.
+- Generate reports and perform data analysis using Python and SQL.
 - Data analysis and reporting using Excel and Google Sheets.
 
 ### 📚 Projects
